@@ -17,15 +17,7 @@ Java 18
 
 Installation
 Run Main class 
+
 --In Shell- 
-javac*.java 
-
-
-Usage
-[Instructions for using the system, including how to rent, return, and view bicycles]
-
-Contributing
-[Guidelines for contributing to the project]
-
-License
-[License information for the project]
+javac -d bin src/*.java
+Java -cp bin Project
